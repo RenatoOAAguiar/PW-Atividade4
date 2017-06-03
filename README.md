@@ -1,4 +1,4 @@
-# PW-Atividade3
+# PW-Atividade4
 
 Laboratório da turma de Programação para Web.
 
@@ -6,7 +6,7 @@ Laboratório da turma de Programação para Web.
 
 ### Para fazer clone.
 
-`git clone https://github.com/RenatoOAAguiar/PW-Atividade3`
+`git clone https://github.com/RenatoOAAguiar/PW-Atividade4`
 
 ### Para rodar com o Tomcat.
 
