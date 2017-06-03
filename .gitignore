@@ -1,4 +1,11 @@
 /.idea/
+
 /target/
+
 /lab-pw-2017-1.iml
+
 /.vscode/
+.classpath
+.project
+.tern-project
+/.settings/
